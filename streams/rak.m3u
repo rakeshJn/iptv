@@ -55,6 +55,12 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD",ABP News (720p)
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="NDTV24x7.in@SD",NDTV 24X7 (480p) [Not 24/7]
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in@SD",Zee News (1080p)
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD",Sony Entertainment Television HD (1080p)
 http://66.102.120.18:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us@SD",Sony Kal (1080p)
@@ -105,4 +111,48 @@ http://163.61.227.29:8000/play/a04p/index.m3u8
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@HD",StarPlus HD (1080p)
 http://66.102.120.18:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="FoodFood.in@SD",Food Food (576p)
+http://103.140.254.2:3500/live/561.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@SD",&TV (576p)
+http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music
+https://mumt04.tangotv.in/B4UMUSIC/index.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="YRFMusic.in@SD",YRF Music (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-id="ZeeBollymovies.in@SD",Zee Bollymovies (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBollymovies.in@Australia",Zee Bollymovies Australia (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (480p)
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in@SD",Zee Cafe (1080p)
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@SD",Zee Cinema (1080p)
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC",Zee Cinema APAC (1080p) [Geo-blocked]
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD",Zee Classic (576p)
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in@SD",9X Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
+#EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM (576p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+#EXTINF:-1 tvg-id="9XM.in@SD",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="Willow Cricket" tvg-name="Willow Cricket"
+https://crichd.onlinetvbd.com/stream.m3u8?id=346
 
