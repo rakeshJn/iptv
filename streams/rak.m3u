@@ -40,8 +40,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD",Aadinath TV (396p)
 #EXTVLCOPT:http-referrer=https://keralive.com/
 https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
-#EXTINF:-1 tvg-id="Zoom.in@SD",Zoom
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in@SD",Jinvani Channel (720p)
 https://cdn-2.pishow.tv/live/989/master.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in@SD",Sanskar TV (1080p)
@@ -115,6 +113,8 @@ http://66.102.120.18:8000/play/a008/index.m3u8
 http://103.140.254.2:3500/live/561.m3u8
 #EXTINF:-1 tvg-id="AndTV.in@SD",&TV (576p)
 http://103.182.170.32:8888/play/a03v
+#EXTINF:-1 tvg-id="Zoom.in@SD",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India",B4U Music
@@ -129,10 +129,6 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.in@SD",Zee Bollywood (576p)
 http://66.102.120.18:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (720p)
-https://dwby15d04agvq.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD",Zee Business (480p)
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8
 #EXTINF:-1 tvg-id="ZeeCafe.in@SD",Zee Cafe (1080p)
 http://66.102.120.18:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD",Zee Cinema (1080p)
@@ -153,6 +149,6 @@ https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id="9XM.in@SD",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="Willow Cricket" tvg-name="Willow Cricket"
+#EXTINF:-1 tvg-id="WillowCricket",Willow Cricket
 https://crichd.onlinetvbd.com/stream.m3u8?id=346
 
